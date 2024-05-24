@@ -9,5 +9,5 @@ Distance metrics:
 - Euclidean distance: Measures the straight-line distance between two points in the feature space.
 - Manhattan distance: Measures the sum of absolute differences between corresponding coordinates of two points.
 - Cosine similarity: Measures the cosine of the angle between two vectors.
-## the cosine similarity needs correction!
+
 
